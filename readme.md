@@ -10,7 +10,7 @@ Deploy:
 - Install the Python Ping3 package, This is used for Lilyhosting API Ping.
 - Git this repo
 - Cd to the repo ```cd kersonal-database```
-- Run ```python main.py``` and you're done, The Database dummy data is being made
+- Run ```python kersonaldatabase.py``` and you're done, The Database dummy data is being made
 
 NOTE: This uses our Lilyhosting API which is hosted on Katcode and Python which is making the dummy data for you. and yes we dont ip ban you cuz this Lilyhosting API is used on the Cloud PCs that we host
 
