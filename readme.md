@@ -13,3 +13,8 @@ Deploy:
 - Run ```python main.py``` and you're done, The Database dummy data is being made
 
 NOTE: This uses our Lilyhosting API which is hosted on Katcode and Python which is making the dummy data for you. and yes we dont ip ban you cuz this Lilyhosting API is used on the Cloud PCs that we host
+
+LOWEST hardware to run
+- 1GB Storage or more
+- 256MB RAM or more
+- 1.00GHz 1 core CPU or more
